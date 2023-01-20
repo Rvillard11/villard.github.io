@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&family=Roboto+Serif:opsz,wght@8..144,100&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Josefin+Sans:wght@200&family=Roboto+Serif:opsz,wght@8..144,100&display=swap');
+
+
+div {
+	background: skyblue;
+	padding: 60px ;
+	width: 500px;
+	height: 1000px;
+	border: 2px solid red;
+	border-radius: 2%;
+	box-shadow: 10px 20px 30px
+
+}
+
+
+
+
+body {
+	background: rgba(90,120,200,1.0);
+}
+h1 {
+	font-family: 'Roboto Serif', serif;
+	color: white;
+	font-size: 24px;
+}
+img {
+	width: 400px;
+}
+p {
+	font-family: 'Caveat', cursive;
+	font-size: 50px;
+	color: red;
+}
+button {
+	width: 90px;
+	height: 30px;
+	background: ghostwhite;
+	border-radius: 20%;
+	border-color: black;
+	box-shadow: 2px 2px 2px;
+}
+
+.banner{
+	width: 1799px;
+	height: 30px;
+
+	border: 2px solid red;
+	border-radius: 2%;
+	box-shadow: 10px 20px 30px
+
+}
+.container {
+	padding: 80px ;
+	width: 90px;
+	height: 60px;
+	border-radius: 4%
+    box-shadow: 10px 20px 30px
+
+}
+
+.banner {
+
+
+
+}
+
